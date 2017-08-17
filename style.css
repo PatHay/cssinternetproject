@@ -1,0 +1,232 @@
+#wrapper{
+    width: 970px;
+    height: 870px;
+    background-color: white;
+}
+#header{
+    width: 970px;
+    height: 150px;
+    background-color: #497da7;
+    display: inline-block;
+}
+#header h1{
+    font-size: 25pt;
+    display: inline-block;
+    margin: 10px 0px 0px 20px;
+    color: white;
+}
+#internet{
+    height: 80px;
+    background-color:white;
+}
+/* #internet:lastchild{
+    padding-top: 20px;
+} */
+#internet img{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+/* span{
+    color: #26669c;
+} */
+#internet h{
+    height: 50px;
+    width: 300px;
+    font-size: 40pt;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin-top: 30px;
+}
+#www{
+    height: 100px;
+    background-color: lightblue;
+}
+#navbar{
+    width: 195px;
+    height: 670px;
+    background-color: white;
+    display: inline-block;
+    padding: 3px;
+}
+#navbar h1{
+    font-size: 12pt;
+}
+#navbar p1{
+    border-top: 2px solid black;
+    display: inline-block;
+    background-image: url("ad_background.png");
+    color: white;
+    height: 300px;
+    font-size: 20pt;
+    text-align: center;
+    padding-top: 20px;
+}
+#navbar p1 img{
+    height: 120px;
+    width: 80px;
+}
+#learn{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #45c9dd;
+    font-size: 14pt;
+    padding: 2px;
+    box-shadow: 2px 2px 5px black;
+    text-decoration: none;
+    color: white;
+}
+#watch{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #4680af;
+    font-size: 14pt;
+    padding: 5px 23px;
+    box-shadow: 2px 2px 5px black;
+    text-decoration: none;
+    color: white;
+}
+#more{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #ec8118;
+    font-size: 14pt;
+    padding: 5px 12px;
+    box-shadow: 2px 2px 5px black;
+    text-decoration: none;
+    color: white;
+    width: 200px;
+}
+#body{
+    width: 764px;
+    height: 670px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+#top{
+    height: 80px;
+    display: block;
+    background-color: white;
+    margin-left: 40px;
+}
+#top h1 img{
+    height: 18px;
+    width: 18px;
+}
+#top h1 {
+    font-size: 14pt;
+    color: #336fa1;
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    height: 41px;
+    border-bottom: 1px solid black;
+    margin-right: -4px;
+}
+#top h2{
+    font-size: 8pt;
+    text-align: right;
+    display: inline-block;
+    width: 285px;
+    height: 40px;
+    vertical-align: middle;
+    margin-top: 14px;
+    border-bottom: 1px solid black;
+}
+#top h2 img{
+    height: 34px;
+    width: 34px;
+    margin: 0px 0px 0px 50px;
+}
+#top h3{
+    font-size: 7pt;
+    text-align: left;
+    display: inline-block;
+    width: 130px;
+    vertical-align: top;
+    height: 45px;
+    border-bottom: 1px solid black;
+    margin-left: -4px;
+}
+#top h3 span{
+    font-size: 16pt;
+    vertical-align: top;
+}
+#mid{
+    height: 400px;
+    display: block;
+    background-color:white;
+    margin-left: 40px;
+    font-size: 10pt;
+}
+#mid h1{
+    margin: 0px;
+    font-size: 14pt;
+}
+#mid p2{
+    width: 724px;
+    text-align: center;
+    display: inline-block;
+}
+#mid p2 img{
+    height: 100px;
+    width: 250px;
+}
+#mid h2{
+    margin-top: 8px;
+    font-size: 14pt;
+}
+#mid p3{
+    margin-top: 10px;
+    font-size: 10pt;
+}
+#mid p3 ol{
+    margin: 0px;
+}
+#mid p3 ol li{
+    margin: 5px;
+}
+#foot{
+    height: 150px;
+    display: block;
+    background-color: white;
+    margin-left: 40px;
+    border: 6px solid rgb(0, 135, 221);
+}
+#foot h1{
+    vertical-align: top;
+    width: 150px;
+    height: 150px;
+    margin: 0px;
+    display: inline-block;
+}
+#foot h1 img{
+    height: 140px;
+    width: 140px;
+    margin: 5px;
+}
+#rightfoot{
+    width: 550px;
+    vertical-align: top;
+    margin: 0px;
+    height: 150px;
+    display: inline-block;
+}
+#rightfoot h2{
+    color: #26669c;
+    width: 400px;
+    font-size: 14pt;
+}
+#rightfoot p1{
+    width: 400px;
+}
+#rightfoot p2{
+    margin-top: 20px;
+}
+#rightfoot p2 a{
+    color: rgb(30, 197, 222);
+    width: 400px;
+    text-decoration: none;
+}
